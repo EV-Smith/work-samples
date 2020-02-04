@@ -77,10 +77,23 @@ video {
 .vid-cap {
     margin-right: 7%;
     margin-bottom: 5%;
+    
 }
 
 .sample-cat_fullrow {
     max-width: 1500px;
+}
+
+.pre-graphic {
+    margin-bottom: 30px;
+}
+
+.section-end {
+    margin-bottom: 40px;
+}
+
+.vid-title {
+    margin-top: -5px;
 }
 
 .gallery {
