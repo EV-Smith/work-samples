@@ -68,6 +68,10 @@ a:active {
   color: #7F342B;
 }
 
+a:visited {
+  color: #FF503B;
+}
+
 video {
   width: 95%;
   height: auto;
@@ -100,6 +104,17 @@ video {
     width: 100%;
     margin-bottom: 25px;
 }
+
+.gd-img {
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.gd-title {
+    margin-top: 0;
+    font-style: italic;
+}
+
 .nav li {
     font-size: 1em;
     border: 1px solid #292930;
