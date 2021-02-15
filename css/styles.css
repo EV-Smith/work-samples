@@ -6,11 +6,11 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
   font-weight: 400;
   color: #292930;
-  margin: .5% 2%;
+  margin: 1%;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 3.6em;
   font-weight: 900;
   font-family: 'Montserrat', sans-serif;
 }
@@ -28,11 +28,12 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 1.7em; 
+  padding-top: 1.3em;
 }
 
 h4 {
-  font-family: upgrade, sans-serif;
-  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
   font-size: 1.3em;   
 }
 
@@ -78,6 +79,10 @@ video {
   padding-bottom: 1rem;
 }
 
+.textdiv {
+  padding: 0 15px 0 15px;
+}
+
 .vid-cap {
     margin-right: 7%;
     margin-bottom: 5%;
@@ -108,6 +113,12 @@ video {
 .gd-img {
     width: 100%;
     margin-bottom: 0px;
+}
+
+.gd-img-src {
+  width: 100%;
+  margin-bottom: 0px;
+  padding-left: -15px;
 }
 
 .gd-title {
