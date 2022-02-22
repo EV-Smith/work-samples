@@ -136,8 +136,7 @@ video {
 
 .wd-img {
   width: 100%;
-  margin-bottom: 0px;
-  padding-bottom: 2rem;
+  margin-bottom: 30px;
   filter: drop-shadow(5px 5px 8px #818181);
 }
 
