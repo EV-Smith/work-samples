@@ -121,6 +121,8 @@ video {
     margin-bottom: 0px;
 }
 
+
+
 .gd-img-src {
   width: 100%;
   margin-bottom: 0px;
@@ -130,6 +132,13 @@ video {
 .gd-title {
     margin-top: 0;
     font-style: italic;
+}
+
+.wd-img {
+  width: 100%;
+  margin-bottom: 0px;
+  padding-bottom: 2rem;
+  filter: drop-shadow(5px 5px 8px #818181);
 }
 
 .nav li {
